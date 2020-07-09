@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+h1{
+    font-weight: 700;
+    font-family: Poppins, sans-serif ; 
+    font-variant-ligatures: contextual ;
+}
+section{
+    margin-bottom: 0;
+
+}
+.sec-One{
+    background-color: #f0fff0;
+    margin-top: 0;
+}
+.sec-two{
+    margin: 30px 100px;
+}
+.sec-three{
+    margin: 30px 100px;
+}
+.col-sm-3:hover{
+    color: rgba(143, 129, 235, .9);
+    background-color: rgb(228, 238, 241);
+    box-shadow: 5px 5px 50px 5px  rgba(177, 132, 132, 0.9);
+
+}
+.sec-four{
+    margin: 30px 100px;
+}
+.container{
+    padding-bottom: 50px;
+}
+ul li{
+    width: 100px;
+    text-align: center;  
+}
+ul li .anchore{
+    border-radius: 50px;
+}
+.navbar img{
+    width: 200px;
+    height: 60px;
+}
+.text-color{
+    color: black !important;
+}
+.btn{
+    border-radius: 25px;
+    width: 137px;
+    height: 35px;
+    padding-top: 3px;
+}
+.second-container-text{
+    padding-top: 20px;
+    text-align: left;
+}
+.sec-one-span{
+    font-family: Poppins;
+}
+
+.book1{
+    width: 68px;
+    height: 80px;
+}
+.container{
+    margin: 8px;
+}
+.books1, .books2, .books3, .books4{
+    background-color: #F8FFFB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+ 
+
+.sec-three h2{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.main-div-first-box{
+    box-shadow: 1px 1px 50px 5px lavender;
+    border-radius: 10px;
+    padding-top: 15px;
+}
+.img-container img, .img-container h3, .img-container h6, new-btn{
+    padding-bottom: 10px;
+}
+.bot-div{
+    padding-top: 53px;
+}
+.box-One, .box-two, .box-three img{
+    width: 100%;
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
+
+.calender {
+    width: 35px;
+    height: 35px;
+    margin-right: 7px;
+}
+.calender img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+
+.people{
+    width: 35px;
+    height: 35px;
+    margin-right: 7px;  
+}
+.people img{
+    width: 100%;
+    height: 100%;
+}
+.div-text{
+    font-weight: 900;
+    font-family: Poppins; 
+    color: #585859;
+}
+ 
+
+.employee img{
+    width: 70%;
+    align-content: center;
+}
+.Testimonial{
+    text-align: center;
+    padding-bottom: 15px;
+    font-family: Poppins;
+}
+.test-text{
+    text-align: justify;
+    padding-top: 70px;
+    font-family: Poppins;
+    color: #0f0f0f;
+}
+.col-sm-2{
+    text-align: justify;
+}
+
+.para{
+    font-size: 15px;
+}
+.sec-five footer{
+    text-align: center;
+    color: #c2c1c1;
+    padding-bottom: 15px;
+    font-family: Poppins;
+}
+
+.sec-five{
+    background-color: #2f2b3b;
+    
+}
+.sec-five-bottom {
+    height: 369px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 100px;
+    
+    
+}
+
